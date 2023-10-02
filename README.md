@@ -9,7 +9,6 @@
 
 ## Concepts Used
 
-- Object Oriented Programming because everything is an object
 - Inheritence for Users, Owners, and Customer. A user of the application is either an Owner or a Customer so Owner and Customer have an inheritence relationship with User
 - Encapsulation for accessing data. Only Owner can access Customer and Books data through private methods
 - Reading and Writing to files
